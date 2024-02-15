@@ -1,0 +1,1 @@
+{"name":"Local: kadane_algorithm","url":"c:\\c++ learn\\kadane_algorithm.cpp","tests":[{"id":1707585663009,"input":"6\n1 2 -1 3 4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ learn\\kadane_algorithm.cpp","group":"local","local":true}
