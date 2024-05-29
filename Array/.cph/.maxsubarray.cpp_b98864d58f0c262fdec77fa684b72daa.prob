@@ -1,1 +1,0 @@
-{"name":"Local: maxsubarray","url":"c:\\c++ learn\\Array\\maxsubarray.cpp","tests":[{"id":1711119262101,"input":"5\n4 -2 8 -12 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++ learn\\Array\\maxsubarray.cpp","group":"local","local":true}
